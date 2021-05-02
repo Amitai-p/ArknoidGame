@@ -1,5 +1,4 @@
-# 205385560
-# sherwiy
+
 compile: bin
 	javac -d bin -cp biuoop-1.4.jar src/*/*.java src/*.java
 run:
